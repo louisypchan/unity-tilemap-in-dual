@@ -1,4 +1,4 @@
-#  Dual-grid system in Unity
+#  Dual-grid System in Unity
 
 #### This is a demo of how I implemented a dual-grid tilemap system in Unity 2022.3.42f1c1
 
