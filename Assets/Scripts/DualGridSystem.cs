@@ -103,7 +103,7 @@ public class DualGridSystem : MonoBehaviour
             TileData tileData = terrainDictionary[str];
             renderTilemap.SetTile(coords, tileData.tile);
             Matrix4x4 rotationMatrix = Matrix4x4.Rotate(Quaternion.Euler(0, 0, tileData.rotaion_z));
-            // 将当前矩阵与旋转矩阵相乘，得到新的变换矩阵
+            // 得到新的变换矩阵
             renderTilemap.SetTransformMatrix(coords, rotationMatrix);
         }
     }
