@@ -14,9 +14,11 @@ Highlights:
 ### Mechanism
 
 Regular tile cut:
+
 <img src="https://github.com/jess-hammer/dual-grid-tilemap-system-godot/assets/59108399/ac3c9ab6-b399-4142-8425-3de6d67249a0" width="350" title="Inward blob cut">
 
 On-the-dual tile cut:
+
 <img src="https://github.com/jess-hammer/dual-grid-tilemap-system-godot/assets/59108399/5399d1b6-7169-4ff8-8a17-1ba8e483fce3" width="350" title="Inward blob cut">
 
 
